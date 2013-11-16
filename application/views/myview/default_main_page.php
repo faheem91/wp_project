@@ -58,47 +58,47 @@
 				
 				<p id="member-directory">
 					LinkedIn member directory: 
-					<a href="default_page.html">a </a>
-					<a href="default_page.html">b </a>
-					<a href="default_page.html">c </a>
-					<a href="default_page.html">d </a>
-					<a href="default_page.html">e </a>
-					<a href="default_page.html">f </a>
-					<a href="default_page.html">g </a>
-					<a href="default_page.html">h </a>
-					<a href="default_page.html">i </a>
-					<a href="default_page.html">j </a>
-					<a href="default_page.html">k </a>
-					<a href="default_page.html">l </a>
-					<a href="default_page.html">m </a>
-					<a href="default_page.html">n </a>
-					<a href="default_page.html">o </a>
-					<a href="default_page.html">p </a>
-					<a href="default_page.html">q </a>
-					<a href="default_page.html">r </a>
-					<a href="default_page.html">s </a>
-					<a href="default_page.html">t </a>
-					<a href="default_page.html">u </a>
-					<a href="default_page.html">v </a>
-					<a href="default_page.html">w </a>
-					<a href="default_page.html">x </a>
-					<a href="default_page.html">y </a>
-					<a href="default_page.html">z </a>
-					<a href="default_page.html">more </a>
+					<a href="default_page.php">a </a>
+					<a href="default_page.php">b </a>
+					<a href="default_page.php">c </a>
+					<a href="default_page.php">d </a>
+					<a href="default_page.php">e </a>
+					<a href="default_page.php">f </a>
+					<a href="default_page.php">g </a>
+					<a href="default_page.php">h </a>
+					<a href="default_page.php">i </a>
+					<a href="default_page.php">j </a>
+					<a href="default_page.php">k </a>
+					<a href="default_page.php">l </a>
+					<a href="default_page.php">m </a>
+					<a href="default_page.php">n </a>
+					<a href="default_page.php">o </a>
+					<a href="default_page.php">p </a>
+					<a href="default_page.php">q </a>
+					<a href="default_page.php">r </a>
+					<a href="default_page.php">s </a>
+					<a href="default_page.php">t </a>
+					<a href="default_page.php">u </a>
+					<a href="default_page.php">v </a>
+					<a href="default_page.php">w </a>
+					<a href="default_page.php">x </a>
+					<a href="default_page.php">y </a>
+					<a href="default_page.php">z </a>
+					<a href="default_page.php">more </a>
 						
 					<br />
 						
 					Browse members
-					<a href="default_page.html"> by country</a>
+					<a href="default_page.php"> by country</a>
 				</p>
 			</div>
 			<hr />
 			
 			<p id="statement">
 			*By joining LinkedIn, you agree to LinkedIn's
-			<a href="default_page.html"> User Agreement</a>,
-			<a href="default_page.html"> Privacy Policy</a> and
-			<a href="default_page.html"> Cookie Policy</a>.
+			<a href="default_page.php"> User Agreement</a>,
+			<a href="default_page.php"> Privacy Policy</a> and
+			<a href="default_page.php"> Cookie Policy</a>.
 			</p>
 			
 		</div> <!-- END: BODY-AREA -->	
@@ -106,38 +106,38 @@
 		
 	<div class="footer">
 		<ul class="footer-links">
-			<li class="bold"><a href="default_page.html"><strong>Help Center</strong></a></li>
-			<li><a href="default_page.html">About</a></li>
-			<li><a href="default_page.html">Press</a></li>
-			<li><a href="default_page.html">Blog</a></li>
-			<li><a href="default_page.html">Careers</a></li>
-			<li><a href="default_page.html">Advertising</a></li>
-			<li><a href="default_page.html">Talent Solutions</a></li>
-			<li><a href="default_page.html">Tools</a></li>
-			<li><a href="default_page.html">Mobile</a></li>
-			<li><a href="default_page.html">Developers</a></li>
-			<li><a href="default_page.html">Publishers</a></li>
-			<li><a href="default_page.html">Language</a></li>
-			<li><a href="default_page.html">Slideshare</a></li>
+			<li class="bold"><a href="default_page.php"><strong>Help Center</strong></a></li>
+			<li><a href="default_page.php">About</a></li>
+			<li><a href="default_page.php">Press</a></li>
+			<li><a href="default_page.php">Blog</a></li>
+			<li><a href="default_page.php">Careers</a></li>
+			<li><a href="default_page.php">Advertising</a></li>
+			<li><a href="default_page.php">Talent Solutions</a></li>
+			<li><a href="default_page.php">Tools</a></li>
+			<li><a href="default_page.php">Mobile</a></li>
+			<li><a href="default_page.php">Developers</a></li>
+			<li><a href="default_page.php">Publishers</a></li>
+			<li><a href="default_page.php">Language</a></li>
+			<li><a href="default_page.php">Slideshare</a></li>
 		</ul>
 		<div class="clear"></div>
 		<ul class="footer-links">
-			<li><a href="default_page.html">LinkedIn Updates</a></li>
-			<li><a href="default_page.html">LinkedIn Influencers </a></li>
-			<li><a href="default_page.html">LinkedIn Jobs </a></li>
-			<li><a href="default_page.html">Jobs Directory </a></li>
-			<li><a href="default_page.html">Company Directory </a></li>
-			<li><a href="default_page.html">Groups Directory </a></li>
-			<li><a href="default_page.html">Title Directory </a></li>
+			<li><a href="default_page.php">LinkedIn Updates</a></li>
+			<li><a href="default_page.php">LinkedIn Influencers </a></li>
+			<li><a href="default_page.php">LinkedIn Jobs </a></li>
+			<li><a href="default_page.php">Jobs Directory </a></li>
+			<li><a href="default_page.php">Company Directory </a></li>
+			<li><a href="default_page.php">Groups Directory </a></li>
+			<li><a href="default_page.php">Title Directory </a></li>
 		</ul>
 		<div class="clear"></div>
 		<ul class="footer-links">
 			<li><img src="images/logo-footer.png" alt="Footer Logo" /></li>
-			<li><a href="default_page.html">User Agreement </a></li>
-			<li><a href="default_page.html">Privacy Policy </a></li>
-			<li><a href="default_page.html">Community Guidelines </a></li>
-			<li><a href="default_page.html">Cookie Policy </a></li>
-			<li><a href="default_page.html">Copyright Policy </a></li>
+			<li><a href="default_page.php">User Agreement </a></li>
+			<li><a href="default_page.php">Privacy Policy </a></li>
+			<li><a href="default_page.php">Community Guidelines </a></li>
+			<li><a href="default_page.php">Cookie Policy </a></li>
+			<li><a href="default_page.php">Copyright Policy </a></li>
 		</ul>
 	</div> <!-- END: FOOTER -->
 </body>
