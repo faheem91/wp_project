@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://wp_project.herokuapp.com/';
+$config['base_url']	= 'http://wp-project.herokuapp.com/';
 
 /*
 |--------------------------------------------------------------------------
