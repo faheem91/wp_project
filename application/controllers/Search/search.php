@@ -201,4 +201,5 @@ public function friendadded(){
 
 }
 
+//this is a comment
 ?>
